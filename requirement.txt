@@ -1,0 +1,8 @@
+webob==1.7.3
+simplejson==3.11.1
+paste==2.0.3
+enum-compat==0.0.2
+eventlet==0.21.0
+greenlet==0.4.12
+PasteDeploy==1.5.2
+Python-memcached==1.58

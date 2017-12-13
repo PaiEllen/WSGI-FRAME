@@ -1,23 +1,4 @@
-# 中国移动WSGI框架架构开发平台
-
-<table>
-	<thead>
-		<tr>
-			<th>版本</th>
-			<th>编制</th>
-			<th>日期</th>
-			<th>更改内容</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>V1</td>
-			<td>白俊丽</td>
-			<td>10/24/2017 4:52:27 PM </td>
-			<td>v1</td>
-		</tr>
-	</tbody>
-</table>
+## WSGI框架架构开发平台
 
 > WSGI API 项目
 
